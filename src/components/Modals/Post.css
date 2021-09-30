@@ -1,0 +1,14 @@
+.Modals {
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  justify-content: center;
+  border: none;
+  text-align: center;
+  font-size: 180%;
+}
+
+.Button {
+  border-radius: 20px;
+  width: 25%;
+  background-color: white;
+}

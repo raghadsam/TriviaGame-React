@@ -1,0 +1,40 @@
+.main-footer {
+  color: white;
+  background: #1a73e8;
+  padding-top: 3em;
+  height: 35%;
+  width: 100%;
+  bottom: 0;
+  z-index: 1;
+  position: relative;
+}
+
+.writings {
+  text-align: left;
+  align-items: space-between;
+  font-family: Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.sitemap {
+  font-family: Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.rights {
+  color: black;
+  width: 100%;
+  background: #f7f7f7;
+  font-size: 13px;
+}
+
+.a {
+  color: white;
+  text-decoration: none;
+}

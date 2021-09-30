@@ -1,0 +1,56 @@
+#ModalTitle {
+  justify-content: center;
+}
+
+.ModalBody {
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid #1a73e8;
+}
+
+input:focus {
+  outline: none;
+  border-color: #1a73e8;
+  /* box-shadow: 0 0 10px #719ece; */
+}
+textarea:focus {
+  outline: none;
+  border-color: #1a73e8;
+  /* box-shadow: 0 0 10px #719ece; */
+}
+
+#ModalFooter {
+  justify-content: center;
+}
+
+/* Each button has an id*/
+
+#SendButton,
+#CancelReport,
+#UnpostButton,
+#CancelUnpost {
+  border-radius: 20px;
+  width: 25%;
+}
+
+#SignInButton {
+  border-radius: 20px;
+  width: 25%;
+  background-color: white;
+  border-color: #1a73e8;
+  color: #1a73e8;
+  border-width: 2px;
+}
+
+#signIn {
+  border: 0px;
+}
+
+/* The below modal-header and modal-footer remove the border lines from the modals */
+.modal-header {
+  border-bottom: 0 none;
+}
+
+.modal-footer {
+  border-top: 0 none;
+}

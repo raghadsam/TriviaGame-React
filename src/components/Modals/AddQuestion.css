@@ -1,0 +1,21 @@
+.Modals {
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  justify-content: center;
+  border: none;
+  font-size: 180%;
+}
+
+.Button {
+  border-radius: 20px;
+  width: 35%;
+  background-color: white;
+}
+
+.Red {
+  background-color: #dc3545;
+}
+
+.Green {
+  background-color: #198754;
+}

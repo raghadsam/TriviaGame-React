@@ -1,0 +1,32 @@
+span.sr-only {
+  display: none;
+  border-radius: 50%;
+}
+
+#rad {
+  border-radius: 50%;
+}
+
+a.page-link {
+  color: black;
+  border-radius: 50%;
+  border-color: #0d6efd;
+}
+
+.Pagi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-bottom: 2%;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.page-item:first-child .page-link {
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}

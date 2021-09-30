@@ -1,0 +1,11 @@
+#dorpQuiz {
+  left: -3.2%;
+  position: relative;
+}
+#QuizSearch {
+  right: -2%;
+  position: relative;
+}
+#QuizDropdown {
+  width: 150%;
+}
